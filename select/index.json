@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "Prom Queen",
+  "base_artist": "Beach Bunny",
+  "createdAt": "2026-02-25T05:45:18.028805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Prom Queen - Audiotree Live Version",
+      "artist": "Beach Bunny",
+      "has_synced": true,
+      "path": "select/01_Prom_Queen_-_Audiotree_Live_Version_Beach_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Prom Queen",
+      "artist": "Beach Bunny",
+      "has_synced": true,
+      "path": "select/02_Prom_Queen_Beach_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Prom Queen",
+      "artist": "Lil Wayne feat. Shanell",
+      "has_synced": false,
+      "path": "select/03_Prom_Queen_Lil_Wayne_feat._Shanell.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Prom Queen",
+      "artist": "Lil Wayne, Shanell",
+      "has_synced": false,
+      "path": "select/04_Prom_Queen_Lil_Wayne,_Shanell.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Prom Queen",
+      "artist": "Plushgun",
+      "has_synced": false,
+      "path": "select/05_The_Prom_Queen_Plushgun.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Prom Queen feat. Shanell",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/06_Prom_Queen_feat._Shanell_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PROM QUEEN",
+      "artist": "Lil Tracy",
+      "has_synced": false,
+      "path": "select/07_PROM_QUEEN_Lil_Tracy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Prom Queen",
+      "artist": "Molly Kate Kestner",
+      "has_synced": true,
+      "path": "select/08_Prom_Queen_Molly_Kate_Kestner.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Prom Queen",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/09_Prom_Queen_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Prom Queen",
+      "artist": "Smokepurpp",
+      "has_synced": true,
+      "path": "select/10_Prom_Queen_Smokepurpp.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Prom Queen (Promo Only clean edit)",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/11_Prom_Queen_(Promo_Only_clean_edit)_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Prom Queen (Clean)",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/12_Prom_Queen_(Clean)_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Prom Queen",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/13_Prom_Queen_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Prom Queen (Dirty)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/14_Prom_Queen_(Dirty)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Prom Queen",
+      "artist": "Insane Clown Posse",
+      "has_synced": true,
+      "path": "select/15_Prom_Queen_Insane_Clown_Posse.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Prom Queen (feat. Shanell)",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/16_Prom_Queen_(feat._Shanell)_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Prom Queen (Feat. Shanell aka SNL)",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/17_Prom_Queen_(Feat._Shanell_aka_SNL)_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Teenagers (osno1 sad prom will never die remix)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/18_Teenagers_(osno1_sad_prom_will_never_die_remix)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "High School Reunion, Prom (feat. Lil Uzi Vert)",
+      "artist": "SAINt JHN feat. Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/19_High_School_Reunion,_Prom_(feat._Lil_Uzi_Vert)_SAINt_JHN_feat._Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "High School Reunion, Prom (feat. Lil Uzi Vert)",
+      "artist": "SAINt JHN",
+      "has_synced": true,
+      "path": "select/20_High_School_Reunion,_Prom_(feat._Lil_Uzi_Vert)_SAINt_JHN.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Prom Night",
+      "artist": "Anamanaguchi",
+      "has_synced": true,
+      "path": "select/21_Prom_Night_Anamanaguchi.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Needy Girl (Bloc Party's High School Prom remix)",
+      "artist": "Chromeo",
+      "has_synced": false,
+      "path": "select/22_Needy_Girl_(Bloc_Party's_High_School_Prom_remix)_Chromeo.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Prom Theme",
+      "artist": "Fountains of Wayne",
+      "has_synced": true,
+      "path": "select/23_Prom_Theme_Fountains_of_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "The Last Prom On Earth",
+      "artist": "Gayngs",
+      "has_synced": false,
+      "path": "select/24_The_Last_Prom_On_Earth_Gayngs.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Prom",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/25_Prom_SZA.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Prom Song",
+      "artist": "Surfer Blood",
+      "has_synced": true,
+      "path": "select/26_Prom_Song_Surfer_Blood.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Sleepwalking (Couples Only Dance Prom Night)",
+      "artist": "Modest Mouse",
+      "has_synced": false,
+      "path": "select/27_Sleepwalking_(Couples_Only_Dance_Prom_Night)_Modest_Mouse.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Prom King",
+      "artist": "Skylar Spence",
+      "has_synced": true,
+      "path": "select/28_Prom_King_Skylar_Spence.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "prom dress",
+      "artist": "mxmtoon",
+      "has_synced": true,
+      "path": "select/29_prom_dress_mxmtoon.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "prom dress - acoustic",
+      "artist": "mxmtoon",
+      "has_synced": true,
+      "path": "select/30_prom_dress_-_acoustic_mxmtoon.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Prom Night",
+      "artist": "Riovaz",
+      "has_synced": true,
+      "path": "select/31_Prom_Night_Riovaz.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Prom",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/32_Prom_SZA.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "The Prom",
+      "artist": "Del Shannon",
+      "has_synced": true,
+      "path": "select/33_The_Prom_Del_Shannon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Prom Queen",
+      "artist": "Beach Bunny",
+      "has_synced": false,
+      "path": "select/pl_01_Prom_Queen_Beach_Bunny.txt"
+    }
+  ]
+}
